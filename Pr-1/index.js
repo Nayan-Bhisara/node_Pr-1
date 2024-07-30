@@ -20,7 +20,7 @@ http.createServer((req,res) => {
             fileName = './service.html'
             break;
         
-        case "contect" :
+        case "/contect" :
             fileName = './contect.html'
             break;
 
